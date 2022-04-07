@@ -7,3 +7,5 @@ prosze bez żartów moje imie to Kamil :)
 HEJ!
 
 Dzień dobry
+
+WriteLine('Hello Kończyk JAkub')
